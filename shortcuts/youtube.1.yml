@@ -1,0 +1,9 @@
+url: http://www.youtube.com/results?hl={$language}&persist_hl=1&search_query={%query}
+title: Youtube
+description: ""
+tags:
+- video
+- youtube
+examples:
+  cartoon: Youtube search for "cartoon"
+tests: []
